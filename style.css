@@ -12,6 +12,11 @@
 body {
     background-color: #d5e6e3;
     padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p, li {
+    font-size: 1.1em;
 }
 
 figure,
